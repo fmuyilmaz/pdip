@@ -6,7 +6,7 @@ API:
 
 DATABASE:
   TYPE: SQLITE
-  HOST: '/test.db'
+  HOST: 'test.db'
   EXECUTION_OPTIONS:
     schema_translate_map:
       Common:
