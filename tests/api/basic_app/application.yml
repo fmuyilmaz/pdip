@@ -2,4 +2,4 @@ APPLICATION:
   NAME: APP
 
 API:
-  DEBUG: True
+  IS_DEBUG: True
